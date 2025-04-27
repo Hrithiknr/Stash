@@ -17,5 +17,6 @@ work on other projects without affecting the existing modifications.
 ----above lines will be stored in a hidden git area, (temporarily)----
 
 
-
-This is the 25% remaining work which ONLY has to be commited and pushed
+-------------- below 25% work only has to be pushed ----------
+This is the 25% remaining work which ONLY has to be commited and pushed 
+AND all the above work will be hidden when we use stash
