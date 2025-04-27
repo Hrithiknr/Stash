@@ -1,0 +1,21 @@
+ --- simple---
+----Already done work will be hidden----
+---- only new work will be displayed in that file----
+
+
+I am a developer who is working on a otp login feature.
+Now I have completed 755 of work.
+But the client finds some bug in his application and now my manager asks me to work on that bug.
+So now what to do with that uncommitedd changes?
+We need to save it in a temporary area i.e stash
+
+Git stash: The Git stash command can be used to accomplish this if a developer is working on a project 
+and wants to preserve the changes without committing them. This will allow him to switch branches and 
+work on other projects without affecting the existing modifications. 
+
+--------------------------75% done --------------------------------------------------
+----above lines will be stored in a hidden git area, (temporarily)----
+
+
+
+This is the 25% remaining work which ONLY has to be commited and pushed
