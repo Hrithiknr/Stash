@@ -15,6 +15,8 @@ work on other projects without affecting the existing modifications.
 
 --------------------------75% done --------------------------------------------------
 ----above lines will be stored in a hidden git area, (temporarily)----
+i.e 
+   newly developed code can be hidden
 
 
 
