@@ -14,17 +14,6 @@ and wants to preserve the changes without committing them. This will allow him t
 work on other projects without affecting the existing modifications.
 
 
-This is the new code added
 
---------------------------75% done --------------------------------------------------
-
-----below lines will be stored in a hidden git area, (temporarily)----
-
---------------------------25% work which will be written now will be hidden --------------------------------------------------
-----above lines will NOT stored in a hidden git area, (temporarily)----
-
-
-i.e 
-   newly developed code can be hidden
 
 
